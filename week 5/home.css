@@ -1,0 +1,48 @@
+.title {
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Comic Sans MS";
+  }
+  .one {
+    background-color: yellow;
+    width: 320px;
+  }
+  div {
+    margin-left: 350px;
+    font-family: "Comic Sans MS";
+    background-color: yellow;
+    margin-bottom: 3px;
+  }
+  .two {
+    background-color: yellow;
+    width: 400px;
+    color: red;
+  }
+  .three {
+    background-color: black;
+    width: 400px;
+    color: whitesmoke;
+    font-style: italic;
+    font-size: 20px;
+    font-family: "times new roman";
+  }
+  .four {
+    background-color: yellow;
+    width: 320px;
+    color: black;
+  }
+  .five {
+    background-color: yellow;
+    width: 400px;
+    color: red;
+  }
+  .six {
+    background-color: yellow;
+    width: 400px;
+    color: red;
+  }
+  .seven {
+    background-color: yellow;
+    width: 320px;
+    color: black;
+  }
